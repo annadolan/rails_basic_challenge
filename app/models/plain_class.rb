@@ -1,0 +1,2 @@
+class PlainClass
+end
